@@ -1713,7 +1713,7 @@ body {
     text-align: center;
     width: 100vw;
     margin-top: 21vh;
-    margin-bottom: 3vh;
+    margin-bottom: 50px;
     padding-right: 6vh;
     -webkit-transform: rotate(-6.75deg);
     transform: rotate(-6.75deg)
