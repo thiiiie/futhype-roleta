@@ -475,7 +475,7 @@ body {
     font-family: Roboto-Regular,sans-serif;
     font-size: 16px;
     color: #fff;
-    background: url(../images/bg.jpg) 50% 50%/cover no-repeat;
+    background: url(../images/bg-mob3.png) 50% 50%/cover no-repeat;
     overflow-x: hidden;
     position: relative
 }
